@@ -6,6 +6,7 @@ public class App {
         System.out.println("Hello using maven ");
         System.out.println("Hii");
         System.out.println("Hello World");
+        System.out.println("Hello this is git push");
 
     }
 }
